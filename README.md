@@ -1,7 +1,7 @@
 ### Hi there, I'm Aakash Tuteja. 👋
 
 - 🔭 I’m a Data Scientist.
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sketch and play battle royals
 
