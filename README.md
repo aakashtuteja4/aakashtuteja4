@@ -1,8 +1,8 @@
 ### Hi there, I'm Aakash Tuteja. 👋
 
-- 🔭 I’m a data Scientist.
-- 🌱 I’m currently learning everything.
-- 🥅 2022 Goals: Contribute more to Open Source projects, learn big data technologies, and all available cloud servies.
+- 🔭 I'm a person who likes to experiment with data to find intuitive solutions for corporate needs.
+- 🌱 I’m currently learning everything such as Analytics, AI, Finance.
+- 🥅 2024 Goals: Contribute more to Open Source projects, learn Gen AI & big data technologies, and few cloud services - GCP (BigQuery, Vertex AI), AWS (SageMaker, Redshift).
 - ⚡ Fun fact: I love to sketch.
 
 ### Connect with me:
@@ -24,7 +24,6 @@
 <img align="left" alt="MySQL" width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="44px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 <br>
 <br>
 <br>
