@@ -1,16 +1,18 @@
 ### Hi there, I'm Aakash Tuteja. 👋
 
 - 🔭 I'm a person who likes to experiment with data to find intuitive solutions for corporate needs.
-- 🌱 I’m currently learning everything such as Analytics, AI, Finance.
+- 💬 I’m currently working on Language Translation using LLM.
+- 🌱 I’m currently learning everything such as Analytics, AI, NLP, Finance.
 - 🥅 2024 Goals: Contribute more to Open Source projects, learn Gen AI & big data technologies, and few cloud services - GCP (BigQuery, Vertex AI), AWS (SageMaker, Redshift).
 - ⚡ Fun fact: I love to sketch.
 
 ### Connect with me:
 
-[<img align="left" alt="aakashtuteja4 | YouTube" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="aakashtuteja4 | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="aakashtuteja4 | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="aakashtuteja4 | Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="aakashtuteja4 | YouTube" width="44px" src="https://github.com/aakashtuteja4/aakashtuteja4/assets/46807531/646c0330-d131-4b56-97ca-e5c860a575b3" />][youtube]
+[<img align="left" alt="aakashtuteja4 | Twitter" width="44px" src="https://github.com/aakashtuteja4/aakashtuteja4/assets/46807531/770dbbb7-057f-4957-b3a6-6a018d87267e" />][twitter]
+[<img align="left" alt="aakashtuteja4 | LinkedIn" width="44px" src="https://github.com/aakashtuteja4/aakashtuteja4/assets/46807531/686eeb2b-6b33-449f-826c-c9c102b7d6bd" />][linkedin]
+[<img align="left" alt="aakashtuteja4 | Instagram" width="44px" src="https://github.com/aakashtuteja4/aakashtuteja4/assets/46807531/a8e821e4-fd6e-4941-b3d4-38f13ae1f9a3" />][instagram]
+[<img align="left" alt="aakashtuteja4 | Website" width="44px" src="https://github.com/aakashtuteja4/aakashtuteja4/assets/46807531/f1723d93-bc52-42df-b2c1-76cfd7c02c7f" />][Website]
 
 <br />
 
@@ -22,11 +24,12 @@
 <img align="left" alt="Jupyter Notebook" width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="SQL" width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="44px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="44px" src="https://github.com/aakashtuteja4/aakashtuteja4/assets/46807531/7b07afaf-167b-4851-b6f3-46d8d347e0ce" />
 <img align="left" alt="Terminal" width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br>
 <br>
 <br>
+
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -38,7 +41,8 @@
 [twitter]: https://twitter.com/AakashTuteja
 [youtube]: https://www.youtube.com/channel/UCfO2VNcq19xs3YDk4eKyvAg
 [instagram]: https://www.instagram.com/iamaakashtuteja/
-[linkedin]: https://www.linkedin.com/in/aakash-tuteja-015394187/
+[linkedin]: https://www.linkedin.com/in/tutejaaakash4/
+[Website]: https://aakashtuteja4.github.io/
 
 
 <!--
